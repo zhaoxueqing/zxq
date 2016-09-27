@@ -1,0 +1,29 @@
+{
+  "name": "zxqing",
+  "version": "1.0.0",
+  "description": "this is my project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "zxq"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoxueqing/zxq.git"
+  },
+  "keywords": [
+    "zxq"
+  ],
+  "author": "zhaoxueqing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoxueqing/zxq/issues"
+  },
+  "homepage": "https://github.com/zhaoxueqing/zxq#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
